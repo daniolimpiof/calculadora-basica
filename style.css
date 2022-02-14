@@ -1,0 +1,64 @@
+body {
+    width: 100%;
+    height: 100 vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+}
+
+input {
+    color: #ffff;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 25%;
+}
+
+.num {
+    width: 64px;
+    height: 67px;
+}
+
+.text{
+    width: 160px;
+    height: 22px;
+    border-radius: 23px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text1{
+     width: 24px;
+     height: 26px;
+     border-radius: 50%;
+     letter-spacing: 5px;
+     text-align: center;
+     margin-bottom: 12px;
+     cursor: pointer;
+}
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: black;
+}
+
+.blue{
+    background-color: aqua;
+}
+.pin{
+    background-color: deeppink;
+}
+.gre{
+    background-color: rgb(80, 221, 44);
+}
+.pur{
+    background-color: rgb(186, 26, 226);
+}
+.ora{
+    background-color: rgb(255, 96, 39);
+}
